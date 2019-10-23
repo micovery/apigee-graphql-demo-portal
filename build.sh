@@ -14,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-export VERSION=${VERSION:-1.0.0}
+export VERSION=${VERSION:-1.0.1}
 
 export REPOSITORY=micovery/apigee-graphql-demo-portal
 export TAG=${VERSION:-latest}
